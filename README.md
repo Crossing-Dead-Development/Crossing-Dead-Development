@@ -1,5 +1,7 @@
 <div align="center">
 
+**繁體中文** · [English](README.en.md)
+
 # 跨越死亡 · Crossing Dead Development（CDD）
 
 **遊戲擴展 × 社群工具 × 獨立遊戲開發**
