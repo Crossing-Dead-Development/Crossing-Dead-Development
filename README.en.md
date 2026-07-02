@@ -55,6 +55,7 @@ For now it's a personal studio, run solely by me, **EvansGoethe**. This organiza
 ## 🔗 Other Works & Contact
 
 - 💬 Discord community: [Join us](https://discord.gg/rMWskbDN6m)
+- 📦 Modrinth: [crossing-dead-development](https://modrinth.com/organization/crossing-dead-development)
 - 🎨 DeviantArt: [evansgoethe](https://www.deviantart.com/evansgoethe)
 - 📮 Email: richardgoethe1122@gmail.com
 
