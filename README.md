@@ -53,7 +53,7 @@
 ## 🔗 其他作品 & 聯絡方式
 
 - 🎨 DeviantArt：[evansgoethe](https://www.deviantart.com/evansgoethe)
-- 📮 聯絡信箱：qqkitty2003@gmail.com
+- 📮 聯絡信箱：richardgoethe1122@gmail.com
 
 ---
 
