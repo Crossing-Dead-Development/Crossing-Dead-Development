@@ -52,6 +52,7 @@
 
 ## 🔗 其他作品 & 聯絡方式
 
+- 💬 Discord 社群：[加入我們](https://discord.gg/rMWskbDN6m)
 - 🎨 DeviantArt：[evansgoethe](https://www.deviantart.com/evansgoethe)
 - 📮 聯絡信箱：richardgoethe1122@gmail.com
 
