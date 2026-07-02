@@ -4,6 +4,8 @@
 
 # Crossing Dead Development (CDD)
 
+<img src="assets/banner.png" alt="Crossing Dead Development" width="100%" />
+
 **Game Extensions × Community Tools × Indie Game Development**
 
 A solo personal studio run by **EvansGoethe**

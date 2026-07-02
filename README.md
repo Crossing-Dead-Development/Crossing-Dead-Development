@@ -4,6 +4,8 @@
 
 # 跨越死亡 · Crossing Dead Development（CDD）
 
+<img src="assets/banner.png" alt="Crossing Dead Development" width="100%" />
+
 **遊戲擴展 × 社群工具 × 獨立遊戲開發**
 
 由 **EvansGoethe** 一人經營的個人企劃團隊
